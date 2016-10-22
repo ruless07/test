@@ -6,13 +6,12 @@
  $('#answerAdd').dialog(
  {autoOpen:false},
  {width:'600px'});
-
+//
 //button
 var massA=[];
 //constructor obA
 function AnswerObj(text) {
   this.text=text;
-
 }
 var textA=function (){
 var  text=$('#textAnswer').text();
