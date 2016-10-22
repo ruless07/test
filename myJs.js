@@ -6,7 +6,7 @@
  $('#answerAdd').dialog(
  {autoOpen:false},
  {width:'600px'});
-//
+// this is my comment
 //button
 var massA=[];
 //constructor obA
